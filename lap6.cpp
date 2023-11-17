@@ -3,7 +3,6 @@
 using namespace std;
 
 // Bai 7:
-
 struct diem {
     double toan,ly,anh,tb;
 };
@@ -124,6 +123,3 @@ int main(){
     }
     return 0;
 }
-
-
-
